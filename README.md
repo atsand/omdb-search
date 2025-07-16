@@ -7,7 +7,7 @@ OUR GOAL: Verify your skillset matches up with your resume and learn more about 
 
 RULES:
 You have 4 HOURS to complete the test (honor system).
-At the end of the 4 hours, submit your test to Alex Stokholm via Github or as a zip.
+At the end of the 4 hours, submit your test via Github or as a zip.
 You may use any tech stack you want. – Bonus Points if you do it in our stack (C#, ASP.NET)
 You can get as fancy as you want in the time allotted, just be sure to fulfill the basic requirement.
 
